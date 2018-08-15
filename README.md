@@ -29,6 +29,11 @@ Project can be deployed to run locally, or as configured to run on a Heroku serv
 
 Check out our Package.json file for other dependencies. Team Dart is using <a href="https://wit.ai/" target="_blank">Wit.ai</a> for Natural Language Processing. 
 
+## Contributors
+Arthur Jen
+Mark Myers
+[Sarah Rehmer](https://github.com/Rehmsy)
+
 ## Credits and Links
 HALchemy was created by Team Dart, during the Summer 2018 Full-Stack Javascript Career Track program at <a href="https://www.alchemycodelab.com/" target="_bl;ank">Alchemy Code Lab</a> in Portland. 
 
