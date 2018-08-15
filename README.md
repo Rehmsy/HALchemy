@@ -30,8 +30,8 @@ Project can be deployed to run locally, or as configured to run on a Heroku serv
 Check out our Package.json file for other dependencies. Team Dart is using <a href="https://wit.ai/" target="_blank">Wit.ai</a> for Natural Language Processing. 
 
 ## Contributors
-Arthur Jen
-Mark Myers
+Arthur Jen,
+Mark Myers,
 [Sarah Rehmer](https://github.com/Rehmsy)
 
 ## Credits and Links
