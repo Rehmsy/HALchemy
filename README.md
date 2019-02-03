@@ -1,7 +1,7 @@
 # HALchemy
 ## A CLI chatbot space survival game.
 
-![halchemy screen capture](/public/halchemy.png)
+![halchemy screen capture](/public/HALchemy.png)
 
 ## Intro
 You have been awakened from cryogenic sleep on a spaceship headed for Earth. The ship's semi-autonomous, intelligent computer system, HAL, needs your decision-making skills to guide the ship safely back to Earth before it's too late.
