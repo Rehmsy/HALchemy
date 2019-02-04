@@ -27,7 +27,7 @@ HALchemy was written in Javascript with Node.js and using a MongoDB database wit
 
 Project can be deployed to run locally, or as configured to run on a Heroku server. We are using various NPM packages including <a href="https://www.npmjs.com/package/inquirer" target="_blank">Inquirer</a>. 
 
-Check out our Package.json file for other dependencies. Team Dart is using <a href="https://wit.ai/" target="_blank">Wit.ai</a> for Natural Language Processing. 
+Check out our package.json file for other dependencies. Team Dart is using <a href="https://wit.ai/" target="_blank">Wit.ai</a> for Natural Language Processing. 
 
 ## Contributors
 Arthur Jen,
